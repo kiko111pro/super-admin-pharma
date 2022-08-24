@@ -1,0 +1,10 @@
+export { default as General } from "./General/General";
+export { default as Blog } from "./Blog";
+export { default as Homepage } from "./Homepage";
+export { default as Lead } from "./Lead";
+export { default as Manufacturer } from "./Manufacturer";
+export { default as Product } from "./Product";
+export { default as Revenue } from "./Revenue";
+export { default as Review } from "./Review";
+export { default as Subscription } from "./Subscription";
+export { default as User } from "./User";
